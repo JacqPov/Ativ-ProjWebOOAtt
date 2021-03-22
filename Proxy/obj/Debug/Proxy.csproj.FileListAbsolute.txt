@@ -1,0 +1,13 @@
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Proxy.dll
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Proxy.pdb
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Data.dll
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Model.dll
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Util.dll
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Data.pdb
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Model.pdb
+C:\c#\ProjetoWebOO\Proxy\bin\Debug\Util.pdb
+C:\c#\ProjetoWebOO\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\c#\ProjetoWebOO\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\c#\ProjetoWebOO\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\c#\ProjetoWebOO\Proxy\obj\Debug\Proxy.dll
+C:\c#\ProjetoWebOO\Proxy\obj\Debug\Proxy.pdb

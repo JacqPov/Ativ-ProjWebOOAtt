@@ -1,0 +1,6 @@
+C:\c#\ProjetoWebOO\Util\bin\Debug\Util.dll
+C:\c#\ProjetoWebOO\Util\bin\Debug\Util.pdb
+C:\c#\ProjetoWebOO\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\c#\ProjetoWebOO\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\c#\ProjetoWebOO\Util\obj\Debug\Util.dll
+C:\c#\ProjetoWebOO\Util\obj\Debug\Util.pdb
